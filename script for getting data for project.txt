@@ -1,0 +1,24 @@
+Gatlewar, Preethi 3/1/2024 4:47 PM • 
+Bodempudi, Swarna
+curl --location --request GET 'https://portal106.mnc.esi.adp.com/hr/v2/workers?$count=true&$skip=0&$top=30&$filter=/workers/associateOID%20IN%20%28%27GGGAV8HGSGVDCB31%27,%27E1GRZY9G034NW2KS%27,%27G3CABGYP28BYXEDF%27,%27E17NH5C0CBD8F2FG%27,%27E1MNF0AE01F0TRNB%27,%27E1H0A4TVX77D10A0%27,%27E1H0A4TVX77D10BB%27,%27E1HWTTM3G04JX5WA%27,%27E10NGDWKF48A31J4%27,%27E1NS5WYJCKN5V0AK%27,%27E1MNF0AE01F0TRNB%27,%27E1JGJYXTYNXQJ230%27,%27E1JGJYXTYNXQJ22C%27,%27E1H0A4TVX77D109DS%27,%27E1H0A4TVX77D109C%27,%27E1H0A4TVX77D109D%27,%27E1H0A4TVX77D10A0%27,%27E1VH4F0XGJX4Z09C%27,%27E1H0A4TVX77D10BB%27,%27E1H0A4TVX77D10BC%27,%27E1HWTTM3G04JX5WA%27%29'
+
+--header 'associateoid: E1Z0ZWEVJBA8X000'
+
+--header 'orgoid: G52QRWV9JZCT2W62'
+
+--header 'SOR: globalview'
+
+--header 'realm: latam'
+
+--header 'roleCode: practitioner'
+
+--header 'consumerAppOid: taas-fit'
+
+--header 'sorContext: globalview-rddev'
+
+--header 'Authorization: basic NGE3NmE1ZjAtMGU0Ny0xMWVkLWFkM2ItMDA1MDU2YjgyMGMwOktGOEFZdU5IdVNNampxbUFldURG'
+
+--header 'ADP-Context-ExpressionID: COUNTRY=US'
+Gatlewar, Preethi 3/1/2024 4:47 PM • 
+Bodempudi, Swarna
+Paste the following url in postman, method GET and execute to run Worker API
